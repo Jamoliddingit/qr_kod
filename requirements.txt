@@ -1,0 +1,6 @@
+qrcode
+pillow
+fastapi
+uvicorn
+aiogram==3.4.1
+python-multipart
